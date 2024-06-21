@@ -164,7 +164,7 @@ h1, h2, h3, h4, h5, h6 {
     scale:80%
 }
 .devilman {
-    scale: 70%;
+    scale: 100%;
     flex-direction: column;
     float: right;
     justify-content: stretch;
