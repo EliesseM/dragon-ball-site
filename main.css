@@ -84,9 +84,6 @@ a {
 .custom-image-bullets {
     padding-left: 20px;
 }
-
-
-
 body {
     background-image: url('images/Fond dragon ball.jpg');
     background-size: cover;
@@ -165,4 +162,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 .Bienvenue {
     scale:80%
+}
+.devilman {
+    scale: 70%;
+    flex-direction: column;
+    float: right;
+    justify-content: stretch;
+    display: flex;
+
 }
