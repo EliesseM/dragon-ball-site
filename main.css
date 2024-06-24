@@ -17,7 +17,11 @@ header {
 }
 
 .home-pic {
-    scale: 80%;
+    scale: 90%;
+    flex-direction: column;
+    float: right;
+    justify-content: space-between;
+    display: flex;
 }
 
 .scale-50 {
@@ -141,10 +145,11 @@ h1, h2, h3, h4, h5, h6 {
     width: 30%;
 }
 .flex-direction-column-texte-et-image {
-    flex-direction: column;
     float: right;
-    justify-content: space-between;
     display: flex;
+    margin-left: 20%;
+    scale: 70%;
+    flex-direction: column;
 }
 .black-goku-scale {
     scale: 50%;
@@ -164,10 +169,20 @@ h1, h2, h3, h4, h5, h6 {
     scale:80%
 }
 .devilman {
-    scale: 100%;
+    scale: 80%;
     flex-direction: column;
     float: right;
     justify-content: stretch;
     display: flex;
+    margin-left: 20%;
+
+}
+.buu {
+    scale: 60%;
+    flex-direction: column;
+    float: right;
+    justify-content: space-between;
+    display: flex;
+    margin-left: 10%;
 
 }
