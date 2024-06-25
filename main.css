@@ -32,14 +32,6 @@ header {
     scale: 95%;
 }
 
-.scale-100 {
-    scale: 140%;
-    float: right;
-    flex-direction: column;
-    margin-left: 20%;
-    flex-direction: column;
-}
-
 header h1 {
     margin: 0;
 }
@@ -73,11 +65,12 @@ footer {
     width: 100%;
     bottom: 0;
 }
+
 p {
-    width: 20%;
+    width: 30%;
     padding: 10px;
     margin-bottom: 10px;
-    background-color: rgba(0,0,0,0);
+    background-color: rgba(0, 0, 0, 0);
     backdrop-filter: blur(2px);
     border-radius: 5px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -85,6 +78,7 @@ p {
     text-align: left;
     color: #000000;
 }
+
 a {
     width: 10%;
     padding: 10px;
@@ -96,6 +90,7 @@ a {
 .custom-image-bullets {
     padding-left: 20px;
 }
+
 body {
     background-image: url('images/Fond dragon ball.jpg');
     background-size: cover;
@@ -103,15 +98,24 @@ body {
     background-position: center;
     background-attachment: fixed;
 }
-h1, h2, h3, h4, h5, h6 {
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
     color: blue;
 }
+
 .redorange-header {
     color: #ff0000;
 }
+
 .black-header {
     color: black
 }
+
 .last-para {
     width: 40%;
     padding: 10px;
@@ -139,9 +143,10 @@ h1, h2, h3, h4, h5, h6 {
 .justify-content-space-between {
     justify-content: space-between;
 }
+
 .structure-de-texte {
     /*ceci est un effet de flou type verre de fenêtre */
-    background-color: rgba(0,0,0,0);
+    background-color: rgba(0, 0, 0, 0);
     backdrop-filter: blur(2px);
     /*background-color: #fccc49;*/
     padding: 1px;
@@ -152,13 +157,15 @@ h1, h2, h3, h4, h5, h6 {
     color: #000000;
     width: 30%;
 }
+
 .flex-direction-column-texte-et-image {
     float: right;
-    flex-direction: column;
+    display: flex;
     margin-left: 20%;
     scale: 70%;
     flex-direction: column;
 }
+
 .black-goku-scale {
     scale: 50%;
     flex-direction: column;
@@ -166,6 +173,7 @@ h1, h2, h3, h4, h5, h6 {
     justify-content: space-between;
     display: flex;
 }
+
 .arc-buu {
     scale: 100%;
     flex-direction: column;
@@ -173,9 +181,11 @@ h1, h2, h3, h4, h5, h6 {
     justify-content: space-between;
     display: flex;
 }
+
 .Bienvenue {
-    scale:80%
+    scale: 80%
 }
+
 .devilman {
     scale: 80%;
     flex-direction: column;
@@ -185,6 +195,7 @@ h1, h2, h3, h4, h5, h6 {
     margin-left: 20%;
 
 }
+
 .buu {
     scale: 60%;
     flex-direction: column;
@@ -193,4 +204,12 @@ h1, h2, h3, h4, h5, h6 {
     display: flex;
     margin-left: 10%;
 
+}
+
+.dragon-malefique {
+    float: right;
+    display: flex;
+    margin-left: 20%;
+    scale: 120%;
+    flex-direction: column;
 }
