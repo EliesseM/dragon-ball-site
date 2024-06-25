@@ -32,6 +32,14 @@ header {
     scale: 95%;
 }
 
+.scale-100 {
+    scale: 140%;
+    float: right;
+    flex-direction: column;
+    margin-left: 20%;
+    flex-direction: column;
+}
+
 header h1 {
     margin: 0;
 }
@@ -66,7 +74,7 @@ footer {
     bottom: 0;
 }
 p {
-    width: 30%;
+    width: 20%;
     padding: 10px;
     margin-bottom: 10px;
     background-color: rgba(0,0,0,0);
@@ -146,7 +154,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .flex-direction-column-texte-et-image {
     float: right;
-    display: flex;
+    flex-direction: column;
     margin-left: 20%;
     scale: 70%;
     flex-direction: column;
