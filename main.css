@@ -17,11 +17,10 @@ header {
 }
 
 .home-pic {
-    scale: 90%;
-    flex-direction: column;
-    float: right;
-    justify-content: space-between;
     display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    float: right;
 }
 
 .scale-50 {
@@ -67,12 +66,9 @@ footer {
 }
 
 p {
-    width: 30%;
+    width: 20%;
     padding: 10px;
     margin-bottom: 10px;
-    background-color: rgba(0, 0, 0, 0);
-    backdrop-filter: blur(2px);
-    border-radius: 5px;
     font-size: 1.2em;
     text-align: left;
     color: #000000;
@@ -144,12 +140,7 @@ h6 {
 }
 
 .structure-de-texte {
-    /*ceci est un effet de flou type verre de fenêtre */
-    background-color: rgba(0, 0, 0, 0);
-    backdrop-filter: blur(2px);
-    /*background-color: #fccc49;*/
     padding: 1px;
-    border-radius: 10px;
     font-size: 1.2em;
     text-align: left;
     color: #000000;
@@ -157,27 +148,27 @@ h6 {
 }
 
 .flex-direction-column-texte-et-image {
-    float: right;
     display: flex;
-    margin-left: 20%;
-    scale: 70%;
     flex-direction: column;
+    align-items: flex-end;
+    float: right;
+    scale: 60%;
 }
 
 .black-goku-scale {
-    scale: 50%;
-    flex-direction: column;
-    float: right;
-    justify-content: space-between;
     display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    float: right;
+    scale: 30%;
 }
 
 .arc-buu {
-    scale: 100%;
-    flex-direction: column;
-    float: right;
-    justify-content: space-between;
     display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    float: right;
+    scale: 30%;
 }
 
 .Bienvenue {
@@ -185,29 +176,27 @@ h6 {
 }
 
 .devilman {
-    scale: 80%;
-    flex-direction: column;
-    float: right;
-    justify-content: stretch;
     display: flex;
-    margin-left: 20%;
+    flex-direction: column;
+    align-items: flex-end;
+    float: right;
+    scale: 80%;
 
 }
 
 .buu {
-    scale: 60%;
-    flex-direction: column;
-    float: right;
-    justify-content: space-between;
     display: flex;
-    margin-left: 10%;
+    flex-direction: column;
+    align-items: flex-end;
+    float: right;
+    scale: 30%;
 
 }
 
 .dragon-malefique {
-    float: right;
     display: flex;
-    margin-left: 20%;
-    scale: 120%;
     flex-direction: column;
+    align-items: flex-end;
+    width: 200px;
+    float: right;
 }

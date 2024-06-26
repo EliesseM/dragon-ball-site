@@ -45,9 +45,9 @@
                 Voici un résumé global de la série, qui est divisée en deux parties principales
                 : Dragon Ball et Dragon Ball Z (ainsi que leurs suites et spin-offs).</p>
         </div>
-        <div><img class="flex-direction-column-texte-et-image home-pic"
+        <span><img class="flex-direction-column-texte-et-image home-pic"
                 src="https://preview.redd.it/dragon-ball-ipad-wallpaper-v0-o7ergkpun5y91.jpg?width=1080&crop=smart&auto=webp&s=b81111d1c215a4dc572732b38623d2b335bd02e7"
-                alt="police-dragon-ball-z"></div>
+                alt="police-dragon-ball-z"></span>
         <h1>Éléments clés de l'intrigue :</h1>
         <ul>
             <li>
@@ -158,7 +158,6 @@
             </li>
             <h3 class="redorange-header">4. Arc du Commandant Red</h3>
             <h4>Episodes 46-57</h4>
-            <div><img class="devilman" src="images/Spike_the_Devilman.jpg" alt="police-dragon-ball-z"></div>
             <div><img class="flex-direction-column-texte-et-image home-pic"
                     src="images/Dragon-Ball-Red-Ribbon-Army-1024x576.jpg" alt="police-dragon-ball-z"></div>
             <p>Goku continue de lutter contre l'Armée du Ruban Rouge,
@@ -173,6 +172,7 @@
             </li>
             <h3 class="redorange-header">5. Arc de Baba la Voyante</h3>
             <h4>Episodes 68-82</h4>
+            <div><img class="devilman" src="images/Spike_the_Devilman.jpg" alt="police-dragon-ball-z"></div>
             <p>Goku cherche à rassembler les Dragon Balls restantes et rencontre Baba la Voyante pour localiser la
                 dernière
                 boule.
@@ -185,13 +185,10 @@
             <li>
                 <h4 class="black-header">Réunion émotive avec le grand-père de Goku.</h4>
             </li>
-            <div><img class="flex-direction-column-texte-et-image home-pic"
-                    src="images/Piccolo_prend_en_otage_Ten_Shin_Han.jpg" alt="police-dragon-ball-z">
-                <img class="flex-direction-column-texte-et-image home-pic" src="images/Jackie-chun.jpg"
-                    alt="police-dragon-ball-z">
-            </div>
+          </div>
             <h3 class="redorange-header">6. Arc du 22ème Tenkaichi Budokai</h3>
             <h4>Episodes 83-101</h4>
+            <div><img class="flex-direction-column-texte-et-image home-pic" src="images/Jackie-chun.jpg"alt="police-dragon-ball-z">
             <p>Goku et ses amis participent au 22ᵉ Tenkaichi Budokai.
                 Ils affrontent des adversaires puissants, y compris Tien Shinhan et Chiaozu,
                 élèves de l'école rivale de la Grue.</p>
@@ -204,6 +201,7 @@
             </li>
             <h3 class="redorange-header">7. Arc de Piccolo Daimao</h3>
             <h4>Episodes 102-122</h4>
+            <div><img class="flex-direction-column-texte-et-image" src="images/Piccolo_prend_en_otage_Ten_Shin_Han.jpg" alt="police-dragon-ball-z"></div>
             <p>L'ancien roi démon Piccolo Daimao est libéré et cherche à dominer le monde.
                 Goku doit s'entraîner intensivement pour le vaincre après que Piccolo a tué Krillin et plusieurs autres.
             </p>
