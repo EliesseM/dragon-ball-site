@@ -9,14 +9,17 @@
 
 <body>
     <header>
-        <div class="display-flex space-between justify-content-space-between">
+        <div href="barre de recherche.php" class="barre-de-recherche">
+            <form action="search.php" method="GET">
+                <div href="barre de recherche.php" class="champ-de-saisie"><input type="text" name="query" placeholder="Rechercher"></div>
+                <div href="barre de recherche.php" class="bouton-recherche"><input type="submit" value="Rechercher"></div>
+            </form>
 
 
-            <img class="scale-50" src="./images/Dragon%20ball.png" alt="dbz picture" />
+            <img class="dbofficial" src="./images/Dragon%20ball.png" alt="dbz picture" />
 
             <div class="display-flex flex-direction-column justify-content-end">
-                <img class="Bienvenue" src="https://fontmeme.com/permalink/240620/20ddf19e17ac72441fc2b3a6789f4dd6.png"
-                    alt="police-dragon-ball-z">
+                <img class="Bienvenue" src="images\Bienvenue.png" alt="police-dragon-ball-z">
                 <nav>
                     <ul>
                         <li><a href="https://eliessem.github.io/dragon-ball-site/">Accueil</a></li>
@@ -305,8 +308,9 @@
                 <h4 class="black-header">Transformation de Gohan en Super Saiyan 2</h4>
             </li>
             <h3 class="redorange-header">4. Arc de Majin Buu</h3>
-            <div><img class="arc-buu" src="images\arc buu.png" alt="police-dragon-ball-z"></div>
-            <div><img class="buu-transfo" src="images\buu transfo2.jpg" alt="police-dragon-ball-z"></div>
+            <div><img class="arc-buu" src="images\arc buu.png" alt="police-dragon-ball-z">
+                <img class="buu-transfo" src="images\buu transfo2.jpg" alt="police-dragon-ball-z">
+            </div>
             <h4>Épisodes 180 à 270</h4>
             <p>Une ancienne menace, Majin Buu, est réveillée, Goku et ses alliés,
                 doivent le stopper pour sauver l'univers.</p>
@@ -382,7 +386,7 @@
             </li>
             <h3 class="redorange-header">4. Arc des Dragons maléfiques</h3>
             <h4>Épisodes 48 à 64</h4>
-            <div><img class="dragon-malefique" src="images\Card_1021880_artwork_apng.png" alt="police-dragon-ball-z">
+            <div><img class="dragonmal" src="images\Card_1021880_artwork_apng.png" alt="police-dragon-ball-z">
             </div>
             <p>Les Dragon Balls deviennent corrompues et libèrent sept dragons maléfiques.
                 Goku et ses amis doivent les combattre pour restaurer les Dragon Balls et sauver la Terre.</p>
@@ -488,7 +492,9 @@
                 <h4 class="black-header">Combat final contre Jiren.</h4>
             </li>
             <h3 class="redorange-header">6. Arc des Prisonniers de la Patrouille Galactique</h3>
-            <div><img class="moro" src="images\moro.png" alt="police-dragon-ball-z"></div>
+            <div><img class="moro" src="images\moro.png" alt="police-dragon-ball-z">
+                <img class="gokumoro" src="images\db super moro.jpeg" alt="police-dragon-ball-z">
+            </div>
             <h4> En cours, à partir de l'épisode 132</h4>
             <p>Goku et Vegeta affrontent Moro, un ancien sorcier qui a échappé à la Patrouille Galactique.
                 Après une série de batailles, ils acquièrent de nouvelles techniques pour faire face à cette menace.</p>

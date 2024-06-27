@@ -17,8 +17,9 @@ header {
 }
 
 
-.scale-50 {
-    scale: 60%;
+.dbofficial {
+    width: 15%;
+    padding-left: 10%;
 }
 
 .scale-70 {
@@ -143,11 +144,12 @@ h6 {
 }
 
 .flex-direction-column-texte-et-image {
-    scale: 50%;
+    width: 50%;
 }
 
 .Bienvenue {
-    scale: 80%
+    width: 50%;
+    padding-inline: 25%;
 }
 
 .arc-enfant {
@@ -187,6 +189,7 @@ h6 {
     vertical-align: top;
     width: 33.25%;
     justify-content: space-between;
+    padding-inline: 10%;
 }
 
 .arcyborg2 {
@@ -196,8 +199,19 @@ h6 {
     width: 28%;
 }
 
+.arc-buu {
+    width: 25%;
+    display: inline-block;
+    vertical-align: top;
+    justify-content: space-between;
+}
+
 .buu-transfo {
-    scale: 70%;
+    width: 25%;
+    display: inline-block;
+    vertical-align: top;
+    justify-content: space-between;
+    padding-inline: 20%;
 }
 
 .baby {
@@ -205,7 +219,11 @@ h6 {
 }
 
 .superc17 {
-    scale: 100%;
+    width: 30%;
+}
+
+.dragonmal {
+    width: 20%;
 }
 
 .beeruswhis {
@@ -213,7 +231,7 @@ h6 {
 }
 
 .freezer {
-    scale: 80%;
+    width: 30%;
 }
 
 .black-goku-scale {
@@ -229,7 +247,18 @@ h6 {
 }
 
 .moro {
-    scale: 100%;
+    width: 20%;
+    vertical-align: top;
+    justify-content: space-between;
+
+}
+
+.gokumoro {
+    width: 20%;
+    display: inline-block;
+    vertical-align: top;
+    justify-content: space-between;
+    padding-inline: 20%;
 }
 
 .dbheroes {
@@ -238,4 +267,39 @@ h6 {
 
 .gokutransfo2 {
     width: 70%;
+}
+
+.barre-de-recherche {
+    display: flex;
+    align-items: center;
+    border-radius: 25px;
+    padding: 5px 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.champ-de-saisie {
+    border: none;
+    outline: none;
+    padding: 10px;
+    font-size: 16px;
+    flex-grow: 1;
+    padding-left: 10%;
+}
+
+.bouton-recherche {
+    color: white;
+    border: none;
+    font-size: 16px;
+    border-radius: 0 25px 25px 0;
+    transition: background-color 0.3s;
+    padding-left: 17%;
+}
+
+.effet-bouton-recherche {
+    background-color: #FF6347;
+    /* Couleur orange plus claire */
+}
+
+.placeholder {
+    color: #666;
 }
