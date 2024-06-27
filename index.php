@@ -74,15 +74,15 @@
                 et Bulma, tout en rencontrant
                 des adversaires redoutables tels que l'Armée du Ruban Rouge et le démon Piccolo Daimao.</div>
             <li>
-            <img class="flex-direction-column-texte-et-image" src="images\chibi goku.jpg">
+                <img class="flex-direction-column-texte-et-image" src="images\chibi goku.jpg">
                 <h3>La Recherche de la Force et du Pouvoir :</h3>
-            </li> 
+            </li>
             <div class="structure-de-texte">Goku s'entraîne avec acharnement sous la direction de Maître Roshi,
                 acquérant des compétences martiales avancées
                 et explorant
                 ses propres capacités extraordinaires.</div>
-                <img class="flex-direction-column-texte-et-image goku-mj" src="images/Goku style.jpg"
-                    alt="police-dragon-ball-z">
+            <img class="flex-direction-column-texte-et-image goku-mj" src="images/Goku style.jpg"
+                alt="police-dragon-ball-z">
             <li>
                 <h3>Le Voyage et la Croissance :</h3>
             </li>
@@ -104,9 +104,11 @@
                 ennemis,
                 tels que Yamcha, Krillin, et le Maître Roshi, qui entraîne Goku dans les arts martiaux.</p>
             <h2>Arcs de Dragon Ball</h2>
-            <div><img class="arc-enfant" src="images\arc enfant.png"
-                    alt="police-dragon-ball-z"></div>
+            <div><img class="arc-enfant" src="images\arc enfant.png" alt="police-dragon-ball-z"></div>
             <h3 class="redorange-header">1. Arc de l'Empereur Pilaf</h3>
+            <div><img class="pilaf2" src="images\pilaf.jpg" alt="police-dragon-ball-z"></div>
+            <div><img class="pilaf1" src="images\Pilaf_machine_combied_by_shu_and_mais.jpg" alt="police-dragon-ball-z">
+            </div>
             <h4>Episodes 1-13</h4>
             <div>
                 <p>L'histoire commence avec Son Goku, un garçon vivant seul dans les montagnes,
@@ -127,6 +129,7 @@
                 <h4 class="black-header">Rencontre avec des personnages importants comme Oolong, Yamcha, et Puar.</h4>
             </li>
             <h3 class="redorange-header">2. Arc du 21ème Tenkaichi Budokai</h3>
+            <div><img class="jackie-chun" src="images\Jackie-chun.png" alt="police-dragon-ball-z"></div>
             <h4>Episodes 14-28</h4>
             <p>Goku et Krillin deviennent les élèves de Maître Roshi.
                 Après un entraînement rigoureux, ils participent au 21ᵉ Tenkaichi Budokai,
@@ -186,52 +189,51 @@
             </li>
             </div>
             <h3 class="redorange-header">6. Arc du 22ème Tenkaichi Budokai</h3>
-            <div><img class="arc-enfant" src="images\Jackie-chun.png"
-                    alt="police-dragon-ball-z">
+            <div><img class="tien" src="images\22nd-Budokai-Tenkaichi-Feature.jpg" alt="police-dragon-ball-z"></div>
             <h4>Episodes 83-101</h4>
-                <p>Goku et ses amis participent au 22ᵉ Tenkaichi Budokai.
-                    Ils affrontent des adversaires puissants, y compris Tien Shinhan et Chiaozu,
-                    élèves de l'école rivale de la Grue.</p>
-                <h4>Éléments clés:</h4>
-                <li>
-                    <h4 class="black-header">Combat final entre Goku et Tien Shinhan.</h4>
-                </li>
-                <li>
-                    <h4 class="black-header">Tien remporte le tournoi, mais devient ami avec Goku.</h4>
-                </li>
-                <h3 class="redorange-header">7. Arc de Piccolo Daimao</h3>
-                <div><img class="flex-direction-column-texte-et-image"
-                        src="images/Piccolo_prend_en_otage_Ten_Shin_Han.jpg" alt="police-dragon-ball-z"></div>
-                <h4>Episodes 102-122</h4>
-                <p>L'ancien roi démon Piccolo Daimao est libéré et cherche à dominer le monde.
-                    Goku doit s'entraîner intensivement pour le vaincre après que Piccolo a tué Krillin et plusieurs
-                    autres.
-                </p>
-                <h4>Éléments clés:</h4>
-                <li>
-                    <h4 class="black-header">Mort et résurrection de plusieurs personnages clés.</h4>
-                </li>
-                <li>
-                    <h4 class="black-header">Défaite de Piccolo Daimao par Goku.</h4>
-                </li>
-                <li>
-                    <h4 class="black-header">Introduction de Piccolo Jr., fils de Piccolo Daimao.</h4>
-                </li>
-                <h3 class="redorange-header">8. Arc du 23ème Tenkaichi Budokai</h3>
-                <h4>Episodes 123-153</h4>
-                <p>Trois ans après la défaite de Piccolo Daimao, Goku et ses amis participent au 23ᵉ Tenkaichi Budokai.
-                    Piccolo Jr. (Ma Junior) participe également, cherchant à venger son père.</p>
-                <div><img class="flex-direction-column-texte-et-image home-pic"
-                        src="images/Db_23e_tenka_ichi_budoukai.jpg" alt="police-dragon-ball-z"></div>
-                <h4>Éléments clés :</h4>
-                <div><img class="flex-direction-column-texte-et-image home-pic" src="images/GokuvsChichi.jpg"
-                        alt="police-dragon-ball-z"></div>
-                <li>
-                    <h4 class="black-header">Goku affronte Piccolo Jr. dans un combat épique.</h4>
-                </li>
-                <li>
-                    <h4 class="black-header">Goku remporte le tournoi et se marie avec Chi-Chi.</h4>
-                </li>
+            <p>Goku et ses amis participent au 22ᵉ Tenkaichi Budokai.
+                Ils affrontent des adversaires puissants, y compris Tien Shinhan et Chiaozu,
+                élèves de l'école rivale de la Grue.</p>
+            <h4>Éléments clés:</h4>
+            <li>
+                <h4 class="black-header">Combat final entre Goku et Tien Shinhan.</h4>
+            </li>
+            <li>
+                <h4 class="black-header">Tien remporte le tournoi, mais devient ami avec Goku.</h4>
+            </li>
+            <h3 class="redorange-header">7. Arc de Piccolo Daimao</h3>
+            <div><img class="flex-direction-column-texte-et-image" src="images/Piccolo_prend_en_otage_Ten_Shin_Han.jpg"
+                    alt="police-dragon-ball-z"></div>
+            <h4>Episodes 102-122</h4>
+            <p>L'ancien roi démon Piccolo Daimao est libéré et cherche à dominer le monde.
+                Goku doit s'entraîner intensivement pour le vaincre après que Piccolo a tué Krillin et plusieurs
+                autres.
+            </p>
+            <h4>Éléments clés:</h4>
+            <li>
+                <h4 class="black-header">Mort et résurrection de plusieurs personnages clés.</h4>
+            </li>
+            <li>
+                <h4 class="black-header">Défaite de Piccolo Daimao par Goku.</h4>
+            </li>
+            <li>
+                <h4 class="black-header">Introduction de Piccolo Jr., fils de Piccolo Daimao.</h4>
+            </li>
+            <h3 class="redorange-header">8. Arc du 23ème Tenkaichi Budokai</h3>
+            <h4>Episodes 123-153</h4>
+            <p>Trois ans après la défaite de Piccolo Daimao, Goku et ses amis participent au 23ᵉ Tenkaichi Budokai.
+                Piccolo Jr. (Ma Junior) participe également, cherchant à venger son père.</p>
+            <div><img class="flex-direction-column-texte-et-image home-pic" src="images/Db_23e_tenka_ichi_budoukai.jpg"
+                    alt="police-dragon-ball-z"></div>
+            <h4>Éléments clés :</h4>
+            <div><img class="flex-direction-column-texte-et-image home-pic" src="images/GokuvsChichi.jpg"
+                    alt="police-dragon-ball-z"></div>
+            <li>
+                <h4 class="black-header">Goku affronte Piccolo Jr. dans un combat épique.</h4>
+            </li>
+            <li>
+                <h4 class="black-header">Goku remporte le tournoi et se marie avec Chi-Chi.</h4>
+            </li>
         </ul>
         <ul>
             <h1>Dragon Ball Z</h1>
@@ -262,10 +264,9 @@
                 <h4 class="black-header">Premier combat entre Goku et Vegeta.</h4>
             </li>
             <h3 class="redorange-header">2. Arc de Namek</h3>
-            <div><img class="goku-transfo-1"
-            src="images\GokuSS.jpg" alt="police-dragon-ball-z"></div>
-            <img class="freezer-form"
-                    src="images\frieza___all_form_by_khomix_dc5unsi-pre.jpg" alt="police-dragon-ball-z">
+            <div><img class="goku-transfo-1" src="images\GokuSS.jpg" alt="police-dragon-ball-z"></div>
+            <img class="freezer-form" src="images\frieza-all-forms-dragon-ball-z-dbz-original-anime-header.jpg"
+                alt="police-dragon-ball-z">
             <h4>Épisodes 36 à 102</h4>
             <p>Goku et ses amis se rendent sur la planète Namek pour utiliser ses Dragon Balls
                 afin de ressusciter leurs amis morts.
@@ -281,10 +282,9 @@
                 <h4 class="black-header">Destruction de Namek</h4>
             </li>
             <h3 class="redorange-header">3. Arc des Cyborgs et de Cell</h3>
-            <div><img class="arcyborg1" src="images\arc cell vegeta style decouper.png"
-                    alt="police-dragon-ball-z">
-            <img class="arcyborg2" src="images\arc cell cell style_preview_rev_1.png"
-                    alt="police-dragon-ball-z"></div>
+            <div><img class="arcyborg1" src="images\arc cell vegeta style decouper.png" alt="police-dragon-ball-z">
+                <img class="arcyborg2" src="images\arc cell cell style_preview_rev_1.png" alt="police-dragon-ball-z">
+            </div>
             <h4>Épisodes 103 à 179</h4>
             <p>Des androïdes destructeurs et un bio-androïde nommé Cell menacent la Terre,
                 menant à des combats épiques.</p>
@@ -330,7 +330,7 @@
         <h1>Suites et Spin-offs</h1>
         <ul>
             <h1>Dragon Ball GT (non canon)</h1>
-
+            <img class="baby" src="images\DB_GT.jpg" alt="police-dragon-ball-z">
             <p>Une série non basée sur le manga de Toriyama, suivant les aventures de Goku
                 après Dragon Ball Z,
                 où il est transformé en enfant et explore l'univers.</p>
@@ -351,8 +351,7 @@
                 <h4 class="black-header">Collecte des Dragon Balls de l'étoile noire.</h4>
             </li>
             <h3 class="redorange-header">2. Arc de Baby</h3>
-            <img class="baby" src="images\baby-dragon-ball-gt-3-1.jpg"
-                    alt="police-dragon-ball-z">
+            <img class="baby" src="images\baby-dragon-ball-gt-3-1.jpg" alt="police-dragon-ball-z">
             <h4>Épisodes 17 à 40</h4>
             <p>Un Tsufuls appelé Baby arrive sur Terre pour se venger des Saiyans.</p>
             <h4>Éléments clés :</h4>
@@ -371,8 +370,7 @@
             </li>
             <h3 class="redorange-header">3. Arc de Super C-17</h3>
             <h4>Épisodes 41 à 47</h4>
-            <div><img class="superc17" src="images\super c17.gif"
-                    alt="police-dragon-ball-z"></div>
+            <div><img class="superc17" src="images\super c17.gif" alt="police-dragon-ball-z"></div>
             <p>Dr. Myu et Dr. Gero créent un nouvel androïde, Super C-17, qui fusionne avec l'ancien C-17.
                 Goku et ses amis doivent combattre cette nouvelle menace.</p>
             <h4>Éléments clés</h4>
@@ -402,8 +400,7 @@
             <p>Une série et un manga qui continuent l'histoire après Dragon Ball Z, introduisant
                 de nouveaux dieux, univers et puissances.</p>
             <h3 class="redorange-header">1. Arc de la Bataille des Dieux</h3>
-            <div><img class="beeruswhis" src="images\beerus et whis.jpg"
-                    alt="police-dragon-ball-z"></div>
+            <div><img class="beeruswhis" src="images\beerus et whis.jpg" alt="police-dragon-ball-z"></div>
             <h4>Épisodes 1 à 14</h4>
             <p> Goku affronte Beerus, le Dieu de la Destruction, après que ce dernier se réveille de son long sommeil
                 et menace de détruire la Terre.
@@ -420,8 +417,7 @@
                 <h4 class="black-header">Combat contre Beerus.</h4>
             </li>
             <h3 class="redorange-header">2. Arc de la Résurrection de F</h3>
-            <div><img class="freezer" src="images\golden_freezer.jpg"
-                    alt="police-dragon-ball-z"></div>
+            <div><img class="freezer" src="images\golden_freezer.jpg" alt="police-dragon-ball-z"></div>
             <h4>Épisodes 15 à 27</h4>
             <p>Freezer est ressuscité par ses subordonnés et revient sur Terre pour se venger de Goku et ses amis.
                 Goku et Vegeta, maintenant capables de se transformer en Super Saiyan Blue,
@@ -441,8 +437,7 @@
             <p>Un tournoi entre les univers 6 et 7 est organisé par Beerus et son frère Champa.
                 Goku et ses amis combattent des guerriers de l'univers 6 dans une série de duels intenses.</p>
             <h4>Éléments clés :</h4>
-            <div><img class="hit" src="images\hit.jpg"
-                    alt="police-dragon-ball-z"></div>
+            <div><img class="hit" src="images\hit.jpg" alt="police-dragon-ball-z"></div>
             <li>
                 <h4 class="black-header">Introduction de Champa et Vados</h4>
             </li>
@@ -471,8 +466,7 @@
                 <h4 class="black-header">Fusion de Zamasu.</h4>
             </li>
             <h3 class="redorange-header">5. Arc de la Survie de l'Univers</h3>
-            <div><img class="migate" src="images/migate no gokui.gif"
-                    alt="police-dragon-ball-z"></div>
+            <div><img class="migate" src="images/migate no gokui.gif" alt="police-dragon-ball-z"></div>
             <h4>Épisodes 77 à 131</h4>
             <p>Un tournoi de puissance est organisé par Zeno, le roi de tout,
                 où des équipes de plusieurs univers combattent pour leur survie.
@@ -494,8 +488,7 @@
                 <h4 class="black-header">Combat final contre Jiren.</h4>
             </li>
             <h3 class="redorange-header">6. Arc des Prisonniers de la Patrouille Galactique</h3>
-            <div><img class="moro" src="images\moro.png"
-                    alt="police-dragon-ball-z"></div>
+            <div><img class="moro" src="images\moro.png" alt="police-dragon-ball-z"></div>
             <h4> En cours, à partir de l'épisode 132</h4>
             <p>Goku et Vegeta affrontent Moro, un ancien sorcier qui a échappé à la Patrouille Galactique.
                 Après une série de batailles, ils acquièrent de nouvelles techniques pour faire face à cette menace.</p>
@@ -513,8 +506,7 @@
             <p>Un anime promotionnel basé sur un jeu d'arcade japonais, offrant des scénarios alternatifs
                 et des transformations inédites.</p>
             <h3 class="redorange-header">1. Arc du Planétaire Prison</h3>
-            <div><img class="dbheroes" src="images\SDBH_gacha_banner_2023.jpg"
-                    alt="police-dragon-ball-z"></div>
+            <div><img class="dbheroes" src="images\SDBH_gacha_banner_2023.jpg" alt="police-dragon-ball-z"></div>
             <h4>Épisodes 1 à 6.</h4>
             <p>Trunks est emprisonné sur la planète Prison, et Goku et Vegeta partent à sa rescousse.
                 Ils y rencontrent des ennemis puissants et découvrent de sombres secrets sur cette planète.</p>
@@ -557,7 +549,7 @@
                 <h4 class="black-header">Intervention de Goku et ses amis.</h4>
             </li>
             <h1>Impact et Popularité</h1>
-            
+
             <p class="last-para">Dragon Ball a eu un impact significatif sur la culture populaire mondiale, influençant
                 de
                 nombreuses œuvres et devenant
@@ -566,10 +558,9 @@
                 des
                 films,
                 des jeux vidéo et de nouvelles séries.</p>
-                <img class="gokutransfo2" src="images\Goku full transformation.jpg"
-                    alt="police-dragon-ball-z">
-            </ul>
-            
+            <img class="gokutransfo2" src="images\Goku full transformation.jpg" alt="police-dragon-ball-z">
+        </ul>
+
     </main>
     <footer class="center">&copy; 2024 Dragon Ball Infos. Tous droits réservés.
     </footer>

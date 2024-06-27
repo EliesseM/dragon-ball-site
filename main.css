@@ -151,7 +151,23 @@ h6 {
 }
 
 .arc-enfant {
-    width: 100%
+    width: 20%
+}
+
+.pilaf1 {
+    width: 40%
+}
+
+.pilaf2 {
+    width: 30%
+}
+
+.jackie-chun {
+    width: 20%;
+}
+
+.tien {
+    width: 30%;
 }
 
 .goku-mj {
@@ -163,7 +179,7 @@ h6 {
 }
 
 .freezer-form {
-    width: 30%;
+    width: 40%;
 }
 
 .arcyborg1 {
@@ -185,7 +201,7 @@ h6 {
 }
 
 .baby {
-    width: 70%;
+    width: 60%;
 }
 
 .superc17 {
@@ -197,11 +213,11 @@ h6 {
 }
 
 .freezer {
-    scale: 100%;
+    scale: 80%;
 }
 
 .black-goku-scale {
-    scale: 100%;
+    width: 20%;
 }
 
 .hit {
