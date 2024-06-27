@@ -16,12 +16,6 @@ header {
 
 }
 
-.home-pic {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-end;
-    float: right;
-}
 
 .scale-50 {
     scale: 60%;
@@ -66,7 +60,7 @@ footer {
 }
 
 p {
-    width: 20%;
+    width: 100%;
     padding: 10px;
     margin-bottom: 10px;
     font-size: 1.2em;
@@ -75,7 +69,7 @@ p {
 }
 
 a {
-    width: 10%;
+    width: 100%;
     padding: 10px;
     margin-bottom: 10px;
     color: black;
@@ -84,6 +78,7 @@ a {
 
 .custom-image-bullets {
     padding-left: 20px;
+    width: 100%;
 }
 
 body {
@@ -144,59 +139,87 @@ h6 {
     font-size: 1.2em;
     text-align: left;
     color: #000000;
-    width: 30%;
+    width: 100%;
 }
 
 .flex-direction-column-texte-et-image {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-end;
-    float: right;
-    scale: 60%;
-}
-
-.black-goku-scale {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-end;
-    float: right;
-    scale: 30%;
-}
-
-.arc-buu {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-end;
-    float: right;
-    scale: 30%;
+    scale: 50%;
 }
 
 .Bienvenue {
     scale: 80%
 }
 
-.devilman {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-end;
-    float: right;
-    scale: 80%;
-
+.arc-enfant {
+    width: 100%
 }
 
-.buu {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-end;
-    float: right;
-    scale: 30%;
-
+.goku-mj {
+    width: 40%;
 }
 
-.dragon-malefique {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-end;
-    width: 200px;
-    float: right;
+.goku-transfo-1 {
+    width: 20%;
+}
+
+.freezer-form {
+    width: 30%;
+}
+
+.arcyborg1 {
+    display: inline-block;
+    vertical-align: top;
+    width: 33.25%;
+    justify-content: space-between;
+}
+
+.arcyborg2 {
+    display: inline-block;
+    vertical-align: top;
+    justify-content: space-between;
+    width: 28%;
+}
+
+.buu-transfo {
+    scale: 70%;
+}
+
+.baby {
+    width: 70%;
+}
+
+.superc17 {
+    scale: 100%;
+}
+
+.beeruswhis {
+    scale: 100%;
+}
+
+.freezer {
+    scale: 100%;
+}
+
+.black-goku-scale {
+    scale: 100%;
+}
+
+.hit {
+    scale: 100%;
+}
+
+.migate {
+    scale: 100%;
+}
+
+.moro {
+    scale: 100%;
+}
+
+.dbheroes {
+    scale: 100%;
+}
+
+.gokutransfo2 {
+    width: 70%;
 }
