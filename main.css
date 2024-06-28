@@ -17,13 +17,13 @@ header {
 }
 
 
-.dbofficial {
-    width: 15%;
-    padding-left: 10%;
+.scale-50 {
+    scale: 60%;
 }
 
 .scale-70 {
     scale: 95%;
+    
 }
 
 header h1 {
@@ -145,11 +145,12 @@ h6 {
 
 .flex-direction-column-texte-et-image {
     width: 50%;
+    
 }
 
 .Bienvenue {
-    width: 50%;
-    padding-inline: 25%;
+    width: 60%;
+    padding-inline-start: 20%;
 }
 
 .arc-enfant {
@@ -267,39 +268,4 @@ h6 {
 
 .gokutransfo2 {
     width: 70%;
-}
-
-.barre-de-recherche {
-    display: flex;
-    align-items: center;
-    border-radius: 25px;
-    padding: 5px 10px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
-}
-
-.champ-de-saisie {
-    border: none;
-    outline: none;
-    padding: 10px;
-    font-size: 16px;
-    flex-grow: 1;
-    padding-left: 10%;
-}
-
-.bouton-recherche {
-    color: white;
-    border: none;
-    font-size: 16px;
-    border-radius: 0 25px 25px 0;
-    transition: background-color 0.3s;
-    padding-left: 17%;
-}
-
-.effet-bouton-recherche {
-    background-color: #FF6347;
-    /* Couleur orange plus claire */
-}
-
-.placeholder {
-    color: #666;
 }
